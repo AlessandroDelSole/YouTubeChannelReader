@@ -7,7 +7,7 @@ namespace SampleApp
     {
         static void Main(string[] args)
         {
-            var youtube = new YouTubeViewModel("UCWYpwlelrWvjZDBxXnVyYag");
+            var youtube = new YouTubeViewModel("UCBLNvO75yv1hAdG7woT74TQ");
 
             youtube.LoadYoutubeChannelAsync().Wait();
 
