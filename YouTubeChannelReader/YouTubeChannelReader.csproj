@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageReleaseNotes>First version</PackageReleaseNotes>
+    <Authors>$(AssemblyName)</Authors>
+  </PropertyGroup>
+
+</Project>
